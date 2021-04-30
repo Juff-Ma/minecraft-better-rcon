@@ -5,8 +5,8 @@ build on: mcrcon
 
 # Downaloads
 
-zip:
+zip: https://github.com/Juff-Ma/minecraft-better-rcon/raw/main/Minecraft%20Better%20rcon%20installer.exe
 #
-self unzip:
+self unzip: https://github.com/Juff-Ma/minecraft-better-rcon/raw/main/Minecraft%20Better%20rcon%20Pack.exe
 #
-installer:
+installer: https://github.com/Juff-Ma/minecraft-better-rcon/raw/main/Minecraft%20Better%20rcon.exe
