@@ -9,4 +9,4 @@ zip: https://github.com/Juff-Ma/minecraft-better-rcon/raw/main/Minecraft%20Bette
 #
 self unzip: https://github.com/Juff-Ma/minecraft-better-rcon/raw/main/Minecraft%20Better%20rcon%20pack.exe
 #
-installer: https://github.com/Juff-Ma/minecraft-better-rcon/raw/main/Minecraft%20Better%20rcon.zip
+installer: https://github.com/Juff-Ma/minecraft-better-rcon/raw/main/Minecraft%20better%20rcon.zip
