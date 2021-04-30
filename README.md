@@ -1,2 +1,9 @@
 # minecraft-better-rcon
-rcon programm what is build on mcrcon
+Hiermit kannst du eine rcon verbindung zu deinem minecraft server aufbauen
+build on: mcrcon
+
+# Downaloads
+
+zip:
+self unzip:
+installer:
